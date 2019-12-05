@@ -1,3 +1,3 @@
 # docker-complex
 
-A multi-container application using React, Express, Redis, and Postgres.
+A multi-container Fibonacci number calculator using React, Express, Redis, and Postgres.
