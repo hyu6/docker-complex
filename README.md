@@ -1,3 +1,3 @@
-# docker-complex
+# multi-docker
 
-A multi-container Fibonacci number calculator using React, Express, Redis, and Postgres.
+A Docker multi-container Fibonacci calculation system.
